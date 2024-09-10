@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+      <title> Aula 7 html </title>
+      <link rel="stylesheet" href="zula 7.css">
+</head>
+      <body>
+        <img src="https://i.pinimg.com/originals/14/ff/e0/14ffe0927a4a5d990e1c4dc773116226.jpg" alt="O filho de Deus" width="1170" height="1699">
+           <div id="div1"> <p> A minha vida é do mestre, meu coração, meu coração é do meu mestre, o meu caminho é do mestre, minha esperança é do mestre oooohhh </p> </div>
+           <br>
+           <div id="div2"> <p> A minha vida é do mestre, meu coração, meu coração é do meu mestre, o meu caminho é do mestre, minha esperança é do mestre oooohhh </p> </div>
+           <br>
+           <div id="div3"> <p> A minha vida é do mestre, meu coração, meu coração é do meu mestre, o meu caminho é do mestre, minha esperança é do mestre oooohhh </p> </div>
+           <br>
+           <p> A minha vida é do mestre, meu coração, meu coração é do meu mestre, o meu caminho é do mestre, minha esperança é do mestre oooohhh </p>
+      </body>
+</html>
+
+
+#div1 {
+    background-color: violet;
+    height: 100px;
+    width: 150px;
+}
+#div2 {
+    background-color: aqua;
+    height: 200px;
+    width: 250px;
+}
+#div3 {
+    
+    height: 100;
+    width: 100px;
+}
+p {
+    color: aqua;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 2.0;
+}
+  body {
+    background-color: blueviolet;
+    background-size: contain;
+    background-image: url(https://i.pinimg.com/originals/14/ff/e0/14ffe0927a4a5d990e1c4dc773116226.jpg);
+    background-repeat: no-repeat;
+  }
